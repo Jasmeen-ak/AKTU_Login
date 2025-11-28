@@ -19,18 +19,18 @@ project-folder/
 
 ---
 
-📸 Preview
+## 📸 Preview
 (Add a screenshot of your login page here after uploading the image to the repo)
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 HTML5
 CSS3
 
 ---
 
-📥 How to Use
+## 📥 How to Use
 
 1)Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
@@ -40,14 +40,14 @@ Run the index.html file in any browser
 
 ---
 
-📚 Description
+## 📚 Description
 
 This is a UI clone/inspired login page for AKTU University, designed only for educational and practice purposes.
 It does not connect to any backend or real authentication system.
 
 ---
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Add JavaScript validation
 Add backend functionality using Node.js / PHP
@@ -55,17 +55,17 @@ Improve responsive layout
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues.
 
 ---
 
-📝 License
+## 📝 License
 
 This project is open-source under the MIT License.
 
-⭐ If you like this project, don't forget to star the repo!
+## ⭐ If you like this project, don't forget to star the repo!
 
 If you want, I can also generate:
 ✅ A better-designed README with images  
